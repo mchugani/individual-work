@@ -1,4 +1,4 @@
-# Learning Objectives for Individual WOrk
+# Learning Objectives for Individual Work
 
 * Network activity
 * Remotes
@@ -7,3 +7,6 @@
 * Student repositories
 * GitHub Classroom
 * Permissions
+* Exercises
+* Automated Testing
+
